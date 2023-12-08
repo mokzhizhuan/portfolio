@@ -17,7 +17,7 @@ function NavBar() {
         <Link activeClass="active" to='Work' spy={true} smooth={true} offset={-100} duration={500} className="desktopMenuListItem">Work Experience</Link>
       </div>
       <button className="desktopMenuBtn">
-        <img src={contactIMG} alt="contactIMG" className="desktopMenuImg" /> Social Media and Contact
+        <img src={contactIMG} alt="contactIMG" className="desktopMenuImg" />&nbsp;Social Media and Contact
       </button>
     </nav>
   );
