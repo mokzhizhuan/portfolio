@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1d0a1079.css",
+    "main.js": "/portfolio/static/js/main.5f069db3.js",
+    "static/js/787.61267596.chunk.js": "/portfolio/static/js/787.61267596.chunk.js",
+    "static/media/Java_programming_language_logo.svg.png": "/portfolio/static/media/Java_programming_language_logo.svg.86407ffa56ebe1f70b6a.png",
+    "static/media/Silver.Wolf.600.3967512.jpg": "/portfolio/static/media/Silver.Wolf.600.3967512.89e54be807ae4334ebb2.jpg",
+    "static/media/MokZhiZhuan(Software Developer).pdf": "/portfolio/static/media/MokZhiZhuan(Software Developer).4c113d096330528a1fac.pdf",
+    "static/media/Bootstrap_logo.svg.png": "/portfolio/static/media/Bootstrap_logo.svg.67ac0c1694ff8db9305f.png",
+    "static/media/CSS3_logo_and_wordmark.svg.png": "/portfolio/static/media/CSS3_logo_and_wordmark.svg.7b2eb4849c1c79b2be14.png",
+    "static/media/Vue.js_Logo_2.svg.png": "/portfolio/static/media/Vue.js_Logo_2.svg.2bfaa1f16ea7316651bf.png",
+    "static/media/thymeleaf.png": "/portfolio/static/media/thymeleaf.afb32317e3ae15783772.png",
+    "static/media/react.png": "/portfolio/static/media/react.fd373eec9017cf21b26d.png",
+    "static/media/spring boot java.png": "/portfolio/static/media/spring boot java.b4718682e8d8bf23e6ec.png",
+    "static/media/JavaScript-Logo.png": "/portfolio/static/media/JavaScript-Logo.ba8930b16477cd078808.png",
+    "index.html": "/portfolio/index.html",
+    "main.1d0a1079.css.map": "/portfolio/static/css/main.1d0a1079.css.map",
+    "main.5f069db3.js.map": "/portfolio/static/js/main.5f069db3.js.map",
+    "787.61267596.chunk.js.map": "/portfolio/static/js/787.61267596.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0a1079.css",
+    "static/js/main.5f069db3.js"
+  ]
+}
