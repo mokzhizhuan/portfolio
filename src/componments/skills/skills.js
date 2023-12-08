@@ -84,7 +84,7 @@ const Skills = () => {
             <h2>Java</h2>
         </div>
         </div>
-        <p className="moreinfo">More details you can check my resusme</p>
+        <p className="moreinfo">More details you can check my resume</p>
     </section>
   )
 }
