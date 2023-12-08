@@ -1,5 +1,6 @@
 {
   "name": "mzzportfolio",
+  "homepage": "https://mokzhizhuan.github.io/mzzportfolio",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -13,7 +14,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage": "https://mokzhizhuan.github.io/mzzportfolio",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
