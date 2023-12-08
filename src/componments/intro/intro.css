@@ -47,14 +47,14 @@
     font-size: 1.25rem;
     font-weight: 100;
     letter-spacing: 1px;
-    color:coral;
+    color:rgb(255, 36, 0);
 }
 
 .Mainlanguage {
     font-size: 1.25rem;
     font-weight: 100;
     letter-spacing: 1px;
-    color:coral;
+    color:rgb(255, 36, 0);
 }
 
 @media screen and (max-width: 840px) {
