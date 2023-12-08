@@ -1,10 +1,12 @@
 #workexperience
 {
     margin: 0 auto;
+    min-height: calc(500vh -4rem);
     width: 100 vw;
     max-width: 60rem;
     display: flex;
     flex-direction: column;
+    top:0;
     align-items: center;
     justify-content: center;
     text-align: center;
