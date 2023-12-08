@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4bf318ea.css",
-    "main.js": "/portfolio/static/js/main.5f069db3.js",
+    "main.css": "/portfolio/static/css/main.ac907e29.css",
+    "main.js": "/portfolio/static/js/main.9195051f.js",
     "static/js/787.61267596.chunk.js": "/portfolio/static/js/787.61267596.chunk.js",
     "static/media/Java_programming_language_logo.svg.png": "/portfolio/static/media/Java_programming_language_logo.svg.86407ffa56ebe1f70b6a.png",
     "static/media/Silver.Wolf.600.3967512.jpg": "/portfolio/static/media/Silver.Wolf.600.3967512.89e54be807ae4334ebb2.jpg",
@@ -14,12 +14,12 @@
     "static/media/spring boot java.png": "/portfolio/static/media/spring boot java.b4718682e8d8bf23e6ec.png",
     "static/media/JavaScript-Logo.png": "/portfolio/static/media/JavaScript-Logo.ba8930b16477cd078808.png",
     "index.html": "/portfolio/index.html",
-    "main.4bf318ea.css.map": "/portfolio/static/css/main.4bf318ea.css.map",
-    "main.5f069db3.js.map": "/portfolio/static/js/main.5f069db3.js.map",
+    "main.ac907e29.css.map": "/portfolio/static/css/main.ac907e29.css.map",
+    "main.9195051f.js.map": "/portfolio/static/js/main.9195051f.js.map",
     "787.61267596.chunk.js.map": "/portfolio/static/js/787.61267596.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bf318ea.css",
-    "static/js/main.5f069db3.js"
+    "static/css/main.ac907e29.css",
+    "static/js/main.9195051f.js"
   ]
 }
