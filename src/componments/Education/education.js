@@ -8,7 +8,7 @@ const Education = () => {
             <h1 className="educationpagetitle">My Education</h1>
             <div className="educationpagesubtitle">
             <h2>University of Wollogang Australia </h2>
-            <p>SIM Bachelor Deggree in Computer Science(Game and Mobile Design)</p>
+            <p>SIM Bachelor Degree in Computer Science(Game and Mobile Design)</p>
             </div>
             <div className="educationpagesubtitle">
             <h2>MDIS Singapore</h2>
