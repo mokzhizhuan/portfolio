@@ -1,0 +1,40 @@
+#workexperience
+{
+    margin: 0 auto;
+    min-height: calc(500vh -4rem);
+    width: 100 vw;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.workpagetitle{
+    margin: 1rem 0;
+    font-size: 3rem;
+}
+
+.workpagecompany{
+    margin: 1rem 0;
+    font-size: 1.5rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    width:100vw;
+    max-width: 80%;
+    text-align: left;
+    background: rgb(50,50,50);
+}
+
+.worknpagesubtitle{
+    margin: 1rem 0;
+    font-size: 1.5rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    width:100vw;
+    max-width: 80%;
+    text-align: left;
+    background: rgb(50,50,50);
+}
