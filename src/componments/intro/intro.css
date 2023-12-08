@@ -1,0 +1,68 @@
+#intro{
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.bg{
+    position: absolute;
+    top: 5rem;
+    z-index: -1;
+    right: 0;
+    object-fit: cover;
+    height: 100vh;
+}
+
+.introContent {
+    height: 100vh;
+    width: 100vw;
+    padding : 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.welcome {
+    font-size: 2.75rem;
+    font-weight: 200;
+    color: greenyellow;
+}
+
+.Hello {
+    font-size: 1.75rem;
+    font-weight: 100;
+    color:aliceblue;
+}
+
+.IntroName {
+    color:burlywood;
+}
+
+.intropara {
+    font-size: 1.25rem;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.Mainlanguage {
+    font-size: 1.25rem;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+@media screen and {max-width: 840px;} {
+    .bg{
+        right: -10vw;
+    }
+    .introContent{
+        font-size: 10vw;
+    }
+    .Hello{
+        font-size: 4.5vw;
+    }
+}
+
