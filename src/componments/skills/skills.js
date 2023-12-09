@@ -9,6 +9,7 @@ import javascript from "../../assets/JavaScript-Logo.png";
 import spring from "../../assets/spring boot java.png";
 import java from "../../assets/Java_programming_language_logo.svg.png";
 import bootstrap from "../../assets/Bootstrap_logo.svg.png"
+import resume from "../../assets/MokZhiZhuan(Software Developer).pdf"
 
 
 const Skills = () => {
@@ -18,8 +19,11 @@ const Skills = () => {
         <div className="myprofileinfo">
           Full Name : Mok Zhi Zhuan <br/>
           Age : 27 <br/>
-          Qualification : UOW Bachelor Degree of Computer Science <br/>
-          Language : English 
+          Qualification : UOW Bachelor Degree <br/>of Computer Science <br/>
+          Language : English <br/>
+          <a href={resume} download="MyResume" target='_blank' rel="noreferrer">
+            <h2 className="resume">My Resume</h2> 
+            </a>
         </div>
         <span className="skillTitle">Programming language used:<br/></span>
         <span className="skillTitle">Frontend Framework:</span>

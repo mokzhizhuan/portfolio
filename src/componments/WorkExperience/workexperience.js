@@ -5,7 +5,7 @@ const Work = () => {
   return (
     <section className="Work">
         <div id="workexperience">
-            <h1 className="workpagetitle">Work Experience(Software Programming):</h1>
+            <h1 className="workpagetitle">Work Experience<br/>(Software Programming):</h1>
             <div className="workpagecompany">NCS PTE LTD
             <div className="workpagesubtitle">
             <h2>PeopleSoft Developer(6 months)</h2>

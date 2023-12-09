@@ -6,14 +6,15 @@ const Intro = () => {
   return (
     <section id="intro">
         <div className="introContent">
-            <span className="welcome">Welcome to my Portfolio.<br/> </span>
+            <span className="welcome">Welcome to my Portfolio<br/> </span>
             <span className="Hello">Hello&nbsp;,&nbsp;</span>
             <span className="Intro">I am&nbsp; 
             <span className="IntroName">Mok Zhi Zhuan</span>
             <br/>Software Backend Developer</span>
             <p className="intropara">
-            Passionate computer science student, seeking to use my existing skills and my eagerness <br/> 
-            to learn in to design innovative , cost-effective software development solution.
+            Passionate computer science student, seeking to use my existing skills <br/>
+            and my eagerness to learn in to design innovative , cost-effective <br/>
+            software development solution.
             </p>
             <p className="Mainlanguage">
             Main backend framework language: Spring boot Java <br/>

@@ -1,0 +1,61 @@
+#contact
+{
+    margin: 0 auto;
+    width: 100 vw;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.ContactTitle{
+    margin: 1rem 0;
+    font-size: 3rem;
+}
+.ContactsTitle{
+    margin: 1rem 0;
+    font-size: 3rem;
+}
+
+.myContacts
+{
+    margin: 0 auto;
+    width: 100 vw;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.SocialMedia{
+    margin: 1rem 0;
+    font-size: 3rem;
+}
+
+.ContactTextBar
+{
+    display: flex;
+    margin: 1rem;
+    padding: 2.5rem 2rem;
+    border-radius: 0.5rem;
+    width:100vw;
+    max-width: 60%;
+    text-align: left;
+    background: rgb(50,50,50);
+}
+
+.ContactImg{
+    height: 8%;
+    width: 8%;
+    margin-right: 2rem;
+}
+.ContactText{
+    font-size: 1rem;
+    font-weight: 200;
+}
