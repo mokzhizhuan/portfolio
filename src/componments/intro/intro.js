@@ -6,10 +6,10 @@ const Intro = () => {
   return (
     <section id="intro">
         <div className="introContent">
-            <span className="welcome">Welcome to my Portfolio<br/> </span>
+            <span className="welcome">Welcome to <br/> my Portfolio<br/> </span>
             <span className="Hello">Hello&nbsp;,&nbsp;</span>
-            <span className="Intro">I am&nbsp; 
-            <span className="IntroName">Mok Zhi Zhuan</span>
+            <span className="Intro">I am&nbsp;
+            <span className="IntroName">Mok <br/>Zhi Zhuan</span>
             <br/>Software Backend Developer</span>
             <p className="intropara">
             Passionate computer science student, seeking to use my existing skills <br/>
