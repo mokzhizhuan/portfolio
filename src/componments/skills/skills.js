@@ -10,7 +10,7 @@ import spring from "../../assets/spring boot java.png";
 import java from "../../assets/Java_programming_language_logo.svg.png";
 import bootstrap from "../../assets/Bootstrap_logo.svg.png"
 import download from '../../assets/cloud-download_60538.png'
-import resume from "../../assets/MokZhiZhuan(Software Developer).pdf"
+import resume from "../../assets/MokZhiZhuan(SoftwareDeveloper).pdf"
 
 
 const Skills = () => {
