@@ -59,9 +59,9 @@ const Contact = () => {
         <h1 className="contactPageTitle">Contact Me</h1>
         <span className="contactDesc">Please fill out the form below for any further discussion</span>
         <form className="contactForm" ref={form} onSubmit={sendEmail}>
-            <input type="text" className="name" placeholder="Your Name" name='your_name' id="name" />
-            <input type="email" className="email" placeholder="Your Email" name='your_email' id="email" />
-            <textarea name="message" className="msg"  rows="5" placeholder="Your Message" id="msg"></textarea>
+            <input type="text" className="name" placeholder="Your Name" name='your_name' id="name" required/>
+            <input type="email" className="email" placeholder="Your Email" name='your_email' id="email" required/>
+            <textarea name="message" className="msg"  rows="5" placeholder="Your Message" id="msg" required></textarea>
             <button type="submit" value="Send" placeholder="Submit"className="submitBtn">Submit</button>
         </form>
       </div>
