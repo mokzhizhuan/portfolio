@@ -1,13 +1,26 @@
-import React from 'react'
+import React, { useRef } from 'react';
 import mail from '../../assets/666162.png'
 import whatsapp from '../../assets/whatsapp.256x256.png'
 import location from '../../assets/location.png'
 import facebook from '../../assets/facebook-icon.png'
 import github from '../../assets/github.png'
 import linkedln from '../../assets/linkedin.png'
+import emailjs from '@emailjs/browser';
 import './Contact.css'
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_pb57iws', 'template_8ne3kda', form.current, 'Nowiumqs2lFvbpHY-')
+      .then((result) => {
+          console.log(result.text);
+      }, (error) => {
+          console.log(error.text);
+      });
+  };
   return (
     <section id="contact">
       <div className="myContacts">
@@ -37,6 +50,16 @@ const Contact = () => {
         <img src={linkedln} alt="" className="ContactImg"/>
             <p className="ContactText">sg.linkedin.com/in/mok-zhi-zhuan-a490b2163</p>
         </div>
+        <div className="contactPage">
+        <h1 className="contactPageTitle">Contact Me</h1>
+        <span className="contactDesc">Please fill out the form below for any further discussion</span>
+        <form className="contactForm" ref={form} onSubmit={sendEmail}>
+            <input type="text" className="name" placeholder="Your Name" name='your_name' />
+            <input type="email" className="email" placeholder="Your Email" name='your_email' />
+            <textarea name="message" className="msg"  rows="5" placeholder="Your Message"></textarea>
+            <button type="submit" value="Send" className="submitBtn">Submit</button>
+        </form>
+      </div>
       </div>
     </section>
   )
