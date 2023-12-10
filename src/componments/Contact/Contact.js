@@ -17,6 +17,11 @@ const Contact = () => {
     emailjs.sendForm('service_pb57iws', 'template_8ne3kda', form.current, 'Nowiumqs2lFvbpHY-')
       .then((result) => {
           console.log(result.text);
+          alert("You have submitted your message.");
+          document.getElementById("name").value= " ";
+          document.getElementById("email").value= " ";
+          document.getElementById("msg").value= " ";
+
       }, (error) => {
           console.log(error.text);
       });
@@ -54,9 +59,9 @@ const Contact = () => {
         <h1 className="contactPageTitle">Contact Me</h1>
         <span className="contactDesc">Please fill out the form below for any further discussion</span>
         <form className="contactForm" ref={form} onSubmit={sendEmail}>
-            <input type="text" className="name" placeholder="Your Name" name='your_name' />
-            <input type="email" className="email" placeholder="Your Email" name='your_email' />
-            <textarea name="message" className="msg"  rows="5" placeholder="Your Message"></textarea>
+            <input type="text" className="name" placeholder="Your Name" name='your_name' id="name" />
+            <input type="email" className="email" placeholder="Your Email" name='your_email' id="email" />
+            <textarea name="message" className="msg"  rows="5" placeholder="Your Message" id="msg"></textarea>
             <button type="submit" value="Send" placeholder="Submit"className="submitBtn">Submit</button>
         </form>
       </div>
