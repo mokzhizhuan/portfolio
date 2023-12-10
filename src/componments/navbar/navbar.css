@@ -21,6 +21,7 @@
 .desktopMenuListItem {
     margin: 1rem;
     cursor: pointer;
+    color: rgb(53, 94, 59);
 }
 
 .desktopMenuListItem:hover{
