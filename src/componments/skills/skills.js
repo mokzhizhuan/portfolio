@@ -9,21 +9,27 @@ import javascript from "../../assets/JavaScript-Logo.png";
 import spring from "../../assets/spring boot java.png";
 import java from "../../assets/Java_programming_language_logo.svg.png";
 import bootstrap from "../../assets/Bootstrap_logo.svg.png"
+import download from '../../assets/cloud-download_60538.png'
 import resume from "../../assets/MokZhiZhuan(Software Developer).pdf"
 
 
 const Skills = () => {
   return (
     <section id="skills">
-        <span className="MyProfile">My Profile</span>
+        <span className="MyProfile">My Profile:</span><br/>
+        <div className="Profile">
         <div className="myprofileinfo">
+          <div className="info">
           Full Name : Mok Zhi Zhuan <br/>
           Age : 27 <br/>
           Qualification : UOW Bachelor Degree <br/>of Computer Science <br/>
           Language : English <br/>
-          <a href={resume} download="MyResume" target='_blank' rel="noreferrer">
-            <h2 className="resume">My Resume</h2> 
+          <a href={resume} download="mokzhizhuan_Resume" target='_blank' rel="noreferrer">
+            <h2 className="resumes">My Resume:</h2> 
+            <img src={download} alt="" className="downloadImg"/>
             </a>
+          </div>
+        </div>
         </div>
         <span className="skillTitle">Programming language used:<br/></span>
         <span className="skillTitle">Frontend Framework:</span>

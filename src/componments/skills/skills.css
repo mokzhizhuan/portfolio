@@ -9,19 +9,26 @@
     margin: 0 auto;
 }
 
-.resume{
-    margin: 1rem;
-    padding: 1.5rem 2rem;
-    border-radius: 0.5rem;
-    text-align: center;
-    color: red;
+.downloadImg{
+    float: right;
+    height: 20%;
+    width: 15%;
+}
+
+.resumes{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(228, 145, 225)
+}
+
+.info{
+    right: 20px;
+    margin-right: 20 rem;
+    font-size: 1.25rem;
+    font-weight: 200;
 }
 
 .resume:hover{
-    margin: 1rem;
-    padding: 1.5rem 2rem;
-    border-radius: 0.5rem;
-    text-align: center;
     color : rgb(135, 206, 235)
 }
 
@@ -34,6 +41,17 @@
     text-align: center;
 }
 
+.Profile
+{
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    width:100vw;
+    max-width: 25%;
+    text-align: left;
+    background: rgb(50,50,50);
+}
 
 .MyProfile{
     font-size: 3rem;
@@ -46,9 +64,6 @@
 {
     font-weight: 200;
     font-size: 1rem;
-    max-width: 50rem;
-    text-align: center;
-    padding: 1.5rem 2rem;
 }
 
 .skillBar
@@ -65,8 +80,8 @@
 
 .skillBarImg{
     object-fit: cover;
-    height: 15%;
-    width: 15%;
+    height: 10%;
+    width: 10%;
     margin-right: 2rem;
 }
 
@@ -79,3 +94,4 @@
     font-size: 1.25rem;
     font-weight: 200;
 }
+

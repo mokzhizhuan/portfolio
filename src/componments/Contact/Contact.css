@@ -50,6 +50,7 @@
     background: rgb(125, 249, 255);
 }
 
+
 .ContactImg{
     height: 8%;
     width: 8%;
@@ -60,3 +61,14 @@
     font-weight: 200;
     color : rgb(8, 24, 168)
 }
+
+.resume{
+    font-size: 1.1rem;
+    font-weight: 200;
+    color : rgb(8, 24, 168)
+}
+
+.resume:hover{
+    color :red
+}
+

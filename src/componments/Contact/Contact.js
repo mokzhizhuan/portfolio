@@ -13,6 +13,9 @@ const Contact = () => {
       <div className="myContacts">
         <span className="ContactTitle">Contact Info:</span>
         <div className="ContactTextBar">
+
+        </div>
+        <div className="ContactTextBar">
         <img src={mail} alt="" className="ContactImg"/>
             <p className="ContactText">gamerdark@outlook.com</p>
         </div>
