@@ -47,7 +47,7 @@
     width:100vw;
     max-width: 60%;
     text-align: left;
-    background: rgb(50,50,50);
+    background: rgb(125, 249, 255);
 }
 
 .ContactImg{
@@ -56,6 +56,7 @@
     margin-right: 2rem;
 }
 .ContactText{
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 200;
+    color : rgb(8, 24, 168)
 }
