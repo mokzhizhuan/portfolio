@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.54b4e1c7.css",
-    "main.js": "/portfolio/static/js/main.b6efa821.js",
+    "main.css": "/portfolio/static/css/main.80571e3f.css",
+    "main.js": "/portfolio/static/js/main.c9e1cb27.js",
     "static/js/787.61267596.chunk.js": "/portfolio/static/js/787.61267596.chunk.js",
+    "static/media/113570961_p0_master1200.jpg": "/portfolio/static/media/113570961_p0_master1200.182e3569320e6164d062.jpg",
     "static/media/Java_programming_language_logo.svg.png": "/portfolio/static/media/Java_programming_language_logo.svg.86407ffa56ebe1f70b6a.png",
-    "static/media/Silver.Wolf.600.3967512.jpg": "/portfolio/static/media/Silver.Wolf.600.3967512.89e54be807ae4334ebb2.jpg",
     "static/media/MokZhiZhuan(SoftwareDeveloper).pdf": "/portfolio/static/media/MokZhiZhuan(SoftwareDeveloper).40f6e602f9382d30733c.pdf",
     "static/media/Bootstrap_logo.svg.png": "/portfolio/static/media/Bootstrap_logo.svg.67ac0c1694ff8db9305f.png",
     "static/media/CSS3_logo_and_wordmark.svg.png": "/portfolio/static/media/CSS3_logo_and_wordmark.svg.7b2eb4849c1c79b2be14.png",
@@ -16,12 +16,12 @@
     "static/media/JavaScript-Logo.png": "/portfolio/static/media/JavaScript-Logo.ba8930b16477cd078808.png",
     "static/media/666162.png": "/portfolio/static/media/666162.5dd953abcbb1a03ba6a8.png",
     "index.html": "/portfolio/index.html",
-    "main.54b4e1c7.css.map": "/portfolio/static/css/main.54b4e1c7.css.map",
-    "main.b6efa821.js.map": "/portfolio/static/js/main.b6efa821.js.map",
+    "main.80571e3f.css.map": "/portfolio/static/css/main.80571e3f.css.map",
+    "main.c9e1cb27.js.map": "/portfolio/static/js/main.c9e1cb27.js.map",
     "787.61267596.chunk.js.map": "/portfolio/static/js/787.61267596.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54b4e1c7.css",
-    "static/js/main.b6efa821.js"
+    "static/css/main.80571e3f.css",
+    "static/js/main.c9e1cb27.js"
   ]
 }
