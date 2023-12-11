@@ -1,6 +1,6 @@
 import React from 'react';
 import './intro.css';
-import bg from '../../assets/Silver.Wolf.600.3967512.jpg';
+import bg from '../../assets/113570961_p0_master1200.jpg';
 
 const Intro = () => {
   return (
