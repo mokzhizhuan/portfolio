@@ -9,9 +9,9 @@
 .bg{
     height: 40%;
     position: absolute;
-    top: 12rem;
+    top: 13rem;
     z-index: 1;
-    right: 10rem;
+    right: 15rem;
 }
 
 .introContent {
