@@ -22,7 +22,7 @@
 .desktopMenuListItem {
     margin: 1rem;
     cursor: pointer;
-    line-height: 2.5;
+    line-height: 3;
 }
 
 .desktopMenuListItem:hover{
