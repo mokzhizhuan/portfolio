@@ -31,7 +31,7 @@ const Skills = () => {
           </div>
         </div>
         </div>
-        <span className="skillTitle">Programming language used:<br/></span>
+        <span className="skillTitle">Programming language mainly used:<br/></span>
         <span className="skillTitle">Frontend Framework:</span>
         <div className="skillBar">
           <img src={vue} alt="" className="skillBarImg"/>
