@@ -36,7 +36,8 @@ const Contact = () => {
         </div>
         <div className="ContactTextBar">
         <img src={whatsapp} alt="" className="ContactImg"/>
-            <p className="ContactText">+6593655121</p>
+            <a className="ContactText" href="https://api.whatsapp.com/send?phone=93655121"
+            target='_blank' rel="noreferrer">+6593655121</a>
         </div>
         <div className="ContactTextBar">
         <img src={location} alt="" className="ContactImg"/>
@@ -45,15 +46,18 @@ const Contact = () => {
         <span className="SocialMedia">Social Media:</span>
         <div className="ContactTextBar">
         <img src={facebook} alt="" className="ContactImg"/>
-            <p className="ContactText">www.facebook.com/<br/>neowolfyuri/</p>
+        <a className="ContactText" href="https://www.facebook.com/neowolfyuri/"
+            target='_blank' rel="noreferrer">www.facebook.com/<br/>neowolfyuri/</a>
         </div>
         <div className="ContactTextBar">
         <img src={github} alt="" className="ContactImg"/>
-            <p className="ContactText">github.com/mokzhizhuan/</p>
+        <a className="ContactText" href="https://github.com/mokzhizhuan"
+            target='_blank' rel="noreferrer">github.com/mokzhizhuan/</a>
         </div>
         <div className="ContactTextBar">
         <img src={linkedln} alt="" className="ContactImg"/>
-            <p className="ContactText">sg.linkedin.com/in/mok-zhi-zhuan-a490b2163</p>
+        <a className="ContactText" href="https://www.linkedin.com/in/mok-zhi-zhuan-a490b2163/"
+            target='_blank' rel="noreferrer">sg.linkedin.com/in/mok-zhi-zhuan-a490b2163</a>
         </div>
         <div className="contactPage">
         <h1 className="contactPageTitle">Contact Me</h1>
