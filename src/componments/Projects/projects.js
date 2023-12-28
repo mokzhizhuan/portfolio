@@ -26,6 +26,10 @@ const Projects = () => {
             target='_blank' rel="noreferrer">
             FPS Game
             </a>
+            <a className="projectpagesubtitle" href="https://github.com/mokzhizhuan/clinic-eps-Spring-Boot"
+            target='_blank' rel="noreferrer">
+            Clinic-eps(Spring Boot Java)
+            </a>
         </div>
     </section>
   )
