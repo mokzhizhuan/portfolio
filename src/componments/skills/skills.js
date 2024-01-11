@@ -100,6 +100,7 @@ const Skills = () => {
             <h2>Python</h2>
         </div>
         </div>
+        </div>
         <p className="moreinfo">More details you can check my resume</p>
     </section>
   )
