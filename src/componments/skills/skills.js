@@ -94,11 +94,11 @@ const Skills = () => {
           <div className="skillBarText">
             <h2>Java</h2>
         </div>
+        </div>
         <div className="skillBar">
           <img src={python} alt="" className="skillBarImg"/>
           <div className="skillBarText">
             <h2>Python</h2>
-        </div>
         </div>
         </div>
         <p className="moreinfo">More details you can check my resume</p>
