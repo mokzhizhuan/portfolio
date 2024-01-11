@@ -8,6 +8,7 @@ import css from "../../assets/CSS3_logo_and_wordmark.svg.png";
 import javascript from "../../assets/JavaScript-Logo.png";
 import spring from "../../assets/spring boot java.png";
 import java from "../../assets/Java_programming_language_logo.svg.png";
+import python from "../../assets/Python-logo-notext.svg.png"
 import bootstrap from "../../assets/Bootstrap_logo.svg.png"
 import download from '../../assets/cloud-download_60538.png'
 import resume from "../../assets/MokZhiZhuan(SoftwareDeveloper).pdf"
@@ -92,6 +93,11 @@ const Skills = () => {
           <img src={java} alt="" className="skillBarImg"/>
           <div className="skillBarText">
             <h2>Java</h2>
+        </div>
+        <div className="skillBar">
+          <img src={python} alt="" className="skillBarImg"/>
+          <div className="skillBarText">
+            <h2>Python</h2>
         </div>
         </div>
         <p className="moreinfo">More details you can check my resume</p>
