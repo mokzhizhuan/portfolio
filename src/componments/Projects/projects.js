@@ -6,7 +6,7 @@ const Projects = () => {
     <section className="Projects">
         <div id="projects">
             <h1 className="projectpagetitle">My Projects</h1>
-            <a className="projectpagesubtitle" href="https://github.com/mokzhizhuan/Shopmereferences"
+            <a className="projectpagesubtitle" href="https://github.com/mokzhizhuan/Shopme-Ecommerence"
             target='_blank' rel="noreferrer">
             Ecommerence Project(Spring boot)
             </a>
