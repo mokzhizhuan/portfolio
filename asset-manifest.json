@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7b25d145.css",
-    "main.js": "/portfolio/static/js/main.5658b2e3.js",
+    "main.js": "/portfolio/static/js/main.c0b306f7.js",
     "static/js/787.61267596.chunk.js": "/portfolio/static/js/787.61267596.chunk.js",
     "static/media/113570961_p0_master1200.jpg": "/portfolio/static/media/113570961_p0_master1200.182e3569320e6164d062.jpg",
     "static/media/Java_programming_language_logo.svg.png": "/portfolio/static/media/Java_programming_language_logo.svg.86407ffa56ebe1f70b6a.png",
-    "static/media/MokZhiZhuan(SoftwareDeveloper).pdf": "/portfolio/static/media/MokZhiZhuan(SoftwareDeveloper).13a321c03b5356cf39e2.pdf",
+    "static/media/MokZhiZhuan(SoftwareDeveloper).pdf": "/portfolio/static/media/MokZhiZhuan(SoftwareDeveloper).97f17f30485d6a881290.pdf",
     "static/media/Python-logo-notext.svg.png": "/portfolio/static/media/Python-logo-notext.svg.ebddd128d5f6b9659464.png",
     "static/media/Bootstrap_logo.svg.png": "/portfolio/static/media/Bootstrap_logo.svg.67ac0c1694ff8db9305f.png",
     "static/media/CSS3_logo_and_wordmark.svg.png": "/portfolio/static/media/CSS3_logo_and_wordmark.svg.7b2eb4849c1c79b2be14.png",
@@ -18,11 +18,11 @@
     "static/media/666162.png": "/portfolio/static/media/666162.5dd953abcbb1a03ba6a8.png",
     "index.html": "/portfolio/index.html",
     "main.7b25d145.css.map": "/portfolio/static/css/main.7b25d145.css.map",
-    "main.5658b2e3.js.map": "/portfolio/static/js/main.5658b2e3.js.map",
+    "main.c0b306f7.js.map": "/portfolio/static/js/main.c0b306f7.js.map",
     "787.61267596.chunk.js.map": "/portfolio/static/js/787.61267596.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b25d145.css",
-    "static/js/main.5658b2e3.js"
+    "static/js/main.c0b306f7.js"
   ]
 }
