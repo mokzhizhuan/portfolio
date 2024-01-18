@@ -12,9 +12,9 @@ const Intro = () => {
             <span className="IntroName">Mok <br/>Zhi Zhuan</span>
             <br/>Software Backend Developer</span>
             <p className="intropara">
-            Passionate computer science student, seeking to use my existing skills <br/>
-            and my eagerness to learn in to design innovative , cost-effective <br/>
-            software development solution.
+            Software Engineer at Singapore , Strong skills in Java , Python , React , VueJS ,<br/>
+            Thyemleaf with ability to implement projects fast through professional expeirence<br/>
+            and building 10+ projects.
             </p>
             <p className="Mainlanguage">
             Main backend framework language: Spring boot Java <br/>
