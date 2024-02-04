@@ -30,6 +30,10 @@ const Projects = () => {
             target='_blank' rel="noreferrer">
             Clinic-eps(Spring Boot Java)
             </a>
+            <a className="projectpagesubtitle" href="https://github.com/mokzhizhuan/WeatherRestAPI"
+            target='_blank' rel="noreferrer">
+            WeatherRestAPI Project (Spring Boot Java)
+            </a>
         </div>
     </section>
   )
