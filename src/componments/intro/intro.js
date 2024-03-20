@@ -17,7 +17,7 @@ const Intro = () => {
             and building 10+ projects.
             </p>
             <p className="Mainlanguage">
-            Main backend framework language: Spring boot Java <br/>
+            Main backend framework language: Spring boot Java , Python <br/>
             FrontEnd : Thymeleaf , HTML , CSS , Javascript or ReactJS/VueJS
             </p>
         </div>
