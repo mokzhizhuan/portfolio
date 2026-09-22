@@ -5,25 +5,52 @@ import bg from '../../assets/116947019_p1_master1200.jpg';
 const Intro = () => {
   return (
     <section id="intro">
-        <div className="introContent">
-            <span className="welcome">Welcome to <br/> my Portfolio<br/> </span>
-            <span className="Hello">Hello&nbsp;,&nbsp;</span>
-            <span className="Intro">I am&nbsp;
-            <span className="IntroName">Mok <br/>Zhi Zhuan</span>
-            <br/>Software Backend Developer</span>
-            <p className="intropara">
-            Software Engineer at Singapore , Strong skills in Java , Python , React , VueJS ,<br/>
-            Thyemleaf with ability to implement projects fast through professional expeirence<br/>
-            and building 10+ projects.
-            </p>
-            <p className="Mainlanguage">
-            Main backend framework language: Spring boot Java , Python <br/>
-            FrontEnd : Thymeleaf , HTML , CSS , Javascript or ReactJS/VueJS
-            </p>
-        </div>
-            <img src={bg} alt="Profile" className="bg"/>
+      <div className="introContent">
+
+        <span className="welcome">
+          Welcome to <br />
+          my Portfolio<br />
+        </span>
+
+        <span className="Hello">
+          Hello&nbsp;,&nbsp;
+        </span>
+
+        <span className="Intro">
+          I am&nbsp;
+          <span className="IntroName">
+            Mok <br />
+            Zhi Zhuan
+          </span>
+
+          <br />
+
+          Software Application Developer
+        </span>
+
+        <p className="intropara">
+          Software Application Developer with experience in automation, Python,
+          web development, backend systems, and computer vision.
+          <br />
+          Skilled in CODESYS, React, FastAPI/Django, Tkinter, MQTT, databases,
+          and system integration.
+        </p>
+
+        <p className="Mainlanguage">
+          Backend & APIs: Python, FastAPI, Django, REST API, MQTT
+          <br />
+          Frontend & Automation: React, Tkinter, CODESYS HMI / WebVisu
+        </p>
+
+      </div>
+
+      <img
+        src={bg}
+        alt="Profile"
+        className="bg"
+      />
     </section>
-  )
-}
+  );
+};
 
 export default Intro;
