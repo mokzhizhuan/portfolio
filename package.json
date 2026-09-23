@@ -1,21 +1,9 @@
 {
   "name": "mzzportfolio",
   "homepage": "https://mokzhizhuan.github.io/portfolio/",
-  "version": "0.1.0",
-  "dependencies": {
-    "@emailjs/browser": "^3.11.0",
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "git": "^0.1.5",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-icons": "^5.7.0",
-    "react-router-dom": "^7.18.4",
-    "react-scripts": "^0.0.0",
-    "react-scroll": "^1.9.0",
-    "web-vitals": "^2.1.4"
-  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -26,6 +14,18 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix --ext .js,.jsx .",
     "build:staging": "env-cmd -f .env.staging npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-icons": "^5.7.0",
+    "react-scripts": "^5.0.1",
+    "react-scroll": "^1.9.3",
+    "web-vitals": "^6.2.2"
   },
   "eslintConfig": {
     "extends": [
@@ -46,6 +46,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0"
+    "gh-pages": "^6.3.0"
   }
 }
